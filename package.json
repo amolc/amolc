@@ -1,0 +1,21 @@
+{
+  "name": "amolc",
+  "version": "0.1.0",
+  "description": "Nodejs Framework to work with mysql angularjs and ionic framework",
+  "main": "install.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/amolc/amolc"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "angularjs",
+    "ionic"
+  ],
+  "author": "Amol Chawathe",
+  "license": "MIT"
+}
